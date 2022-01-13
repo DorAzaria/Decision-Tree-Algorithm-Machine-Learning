@@ -1,3 +1,6 @@
+# Decision  Tree Algorithm
+![](https://github.com/DorAzaria/Decision-Tree-Algorithm-Machine-Learning/blob/main/Machine%20Learning@2x.png?raw=true)
+
 ```python
 import matplotlib.pyplot as plt
 import itertools
